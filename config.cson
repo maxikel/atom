@@ -1,0 +1,24 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6e5a1794-6dc0-400a-baed-06488a5f6bf3"
+  core:
+    disabledPackages: [
+      "wrap-guide"
+      "linter"
+    ]
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "5fa0eb65-49fe-4c68-8b7d-9739b46e8408"
+  "linter-ansible-syntax":
+    ansibleExecutablePath: "/usr/local/bin/ansible-playbook"
+  "linter-terraform-syntax":
+    newVersion: true
+  "linter-ui-default":
+    panelHeight: 101
+    panelRepresents: "Entire Project"
+    showPanel: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
